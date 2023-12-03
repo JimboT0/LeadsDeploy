@@ -1,0 +1,4 @@
+{
+    "githubRepositories.experimental.prefetch": true,
+    "github.branchProtection": false
+}
