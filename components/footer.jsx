@@ -19,7 +19,7 @@ function footer() {
 
 
             <div className='flex flex-col justify-center items-center text-center p-10'>
-                <div className="w-[308.70px] h-[38.89px] text-center text-slate-300 text-sm font-normal leading-snug mt-10 font-bodoni-moda">©  VintageRiches 2023 All Rights Reserved</div>
+                <div className="w-[308.70px] h-[38.89px] text-center text-slate-300 text-sm font-normal leading-snug mt-10 font-bodoni-moda">©  VintageRiches 2024 All Rights Reserved</div>
             </div>
 
 
