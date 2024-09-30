@@ -1,15 +1,13 @@
 'use client'
 import ProductPage from '../../../components/productpage';
 
-import Head from 'next/head';
-import { useEffect } from 'react';
 
 
 
 
 import React from 'react';
 
-const Page = () => {
+export default function Page(){
 
 
     return (
@@ -26,4 +24,3 @@ const Page = () => {
     )
 }
 
-export default Page;
