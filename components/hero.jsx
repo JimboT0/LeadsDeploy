@@ -20,13 +20,13 @@ function Hero() {
         <div className='bg-white'>
             <div className="w-[100%] h-100vh  flex flex-col md:flex-row justify-center items-center text-center">
                 <div style={{
-                    backgroundImage: "url(/bg.png)",
+                    backgroundImage: "url(bg.png)",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     width: '100vw',
                     height: '90vh',
 
-                }} className=' flex flex-col justify-center items-center text-center order-2 md:order-1'>
+                 }} className=' flex flex-col justify-center items-center text-center order-2 md:order-1'>
                     {/* <div className="w-[100%] text-white text-3xl md:text-3xl font-bold tracking-wide font-bodoni-moda ">Discover Hidden Riches in Your Home:</div>
                     <div className="w-[100%] text-slate-200 leading-7 font-lato px-5 pt-6 text-xl md:text-xl tracking-wide pb-5 mx-auto">Unveiling the Lucrative Journey of Rediscovering the Forgotten Treasures
                         <br />that You May Have Lying Around Your House
