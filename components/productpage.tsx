@@ -31,6 +31,8 @@ export default async function Productpage() {
           <div className="mt-2 font-extrabold bg-black bg-clip-text text-transparent">
             {project.name}
           </div>
+
+          
         </Link>
       ))}
 
