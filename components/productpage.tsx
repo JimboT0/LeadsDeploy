@@ -9,6 +9,8 @@ import Share from './share';
 
 export default async function Productpage() {
 
+  
+
   const projects = await getProjects();
 
 
@@ -32,7 +34,7 @@ export default async function Productpage() {
             {project.name}
           </div>
 
-          
+
         </Link>
       ))}
 

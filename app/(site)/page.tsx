@@ -7,24 +7,13 @@ import Testimonial from '../../components/testimonial';
 
 export default async function Home() {
   
-
-
-
-
   return (
 
     <>
       <Hero />
       <ProductPage />
-
       <Testimonial />
-
-
-
-
     </>
-
-
   );
 
 }
