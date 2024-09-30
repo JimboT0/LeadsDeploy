@@ -20,7 +20,7 @@ function Hero() {
         <div className='bg-white'>
             <div className="w-[100%] h-100vh  flex flex-col md:flex-row justify-center items-center text-center">
                 <div style={{
-                    backgroundImage: "url(bg.png)",
+                    backgroundImage: "url('/bg.png')",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     width: '100vw',
